@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel_agency/static/css/main.365964ec.css",
+    "main.js": "/travel_agency/static/js/main.744a9c87.js",
+    "static/media/BG.jpg": "/travel_agency/static/media/BG.8717506246f30de87b19.jpg",
+    "static/media/PhotoLake.jpg": "/travel_agency/static/media/PhotoLake.0926b85893a61ade26ed.jpg",
+    "static/media/beach.png": "/travel_agency/static/media/beach.23d5c73dfba17585c7ac.png",
+    "static/media/PhotoGirl.png": "/travel_agency/static/media/PhotoGirl.00dd19f7e6e2bf09d8d8.png",
+    "static/media/Ship.svg": "/travel_agency/static/media/Ship.e88f5fd1acd3da29e201e3bb6d38fde0.svg",
+    "static/media/hotel.svg": "/travel_agency/static/media/hotel.45349826e1027b130c53ea1ca639aa9d.svg",
+    "static/media/Flight.svg": "/travel_agency/static/media/Flight.e3e880df7c51fdf1342ce642f4731e7a.svg",
+    "static/media/car.svg": "/travel_agency/static/media/car.bbc89809dc9f89327999ad6e967e1b5b.svg",
+    "index.html": "/travel_agency/index.html",
+    "static/media/checkbox-checked.svg": "/travel_agency/static/media/checkbox-checked.03efca5cb9fafb8ccf1f05114c9127bf.svg",
+    "main.365964ec.css.map": "/travel_agency/static/css/main.365964ec.css.map",
+    "main.744a9c87.js.map": "/travel_agency/static/js/main.744a9c87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365964ec.css",
+    "static/js/main.744a9c87.js"
+  ]
+}
