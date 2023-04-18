@@ -1,12 +1,11 @@
 
 import React from "react"
-import { BtnTravelRead, ImageAbsolute, ImageRelative, ListAdvantage, PositionRelative, TextBack, TextGrey, TextParagraph, TextUnderNumber, TravelList, TravelMark, TravelNumber, WrapperBeach, WrapperTravel } from "./travelSection.styled"
+import { BtnTravelRead, ImageAbsolute, ListAdvantage, PositionRelative, TextBack, TextGrey, TextParagraph, TextUnderNumber, TravelList, TravelMark, TravelNumber, WrapperBeach, WrapperTravel } from "./travelSection.styled"
 import photoGirl from '../image/PhotoGirl.png'
 import photoLake from '../image/PhotoLake.jpg' 
 import photoBeach from '../image/beach.png'
 
 export const TravelPage = () => {
-    const useTag = '<use xlink:href="../image/sprite.svg#icon-checkbox-checked"/>';
     return(
         <>
         <TextBack>TRAVEL</TextBack>
